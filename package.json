@@ -1,0 +1,38 @@
+{
+  "name": "self-improving-agent",
+  "version": "1.0.0",
+  "description": "Controlled self-modification for AI agents — read, diff, and propose changes to source code with mandatory human approval.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "self-improvement",
+    "self-modification",
+    "code-generation",
+    "human-in-the-loop",
+    "approval",
+    "hot-reload",
+    "diff",
+    "agi"
+  ],
+  "author": "FutureSpeak.AI <hello@futurespeak.ai> (https://futurespeak.ai)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FutureSpeakAI/self-improving-agent.git"
+  },
+  "homepage": "https://github.com/FutureSpeakAI/self-improving-agent",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md"
+  ]
+}
