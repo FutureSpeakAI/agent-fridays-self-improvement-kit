@@ -12,7 +12,7 @@ An AI agent that can read its own source code, generate diffs, and propose targe
 
 ## Origin
 
-Extracted from [Agent Friday](https://github.com/FutureSpeakAI) — an AGI OS by **FutureSpeak.AI**. The self-improvement system is one of several novel subsystems that give Agent Friday the ability to evolve its own capabilities while maintaining strict human oversight. This library packages the core self-modification engine as a standalone, framework-agnostic module.
+Extracted from [Agent Friday](https://github.com/FutureSpeakAI/Agent-Friday) — the world's most trustworthy AI assistant, by **FutureSpeak.AI**. The self-improvement system is one of several novel subsystems that give Agent Friday the ability to evolve its own capabilities while maintaining strict human oversight. This library packages the core self-modification engine as a standalone, framework-agnostic module.
 
 ---
 
@@ -221,4 +221,4 @@ engine.registerHotReload('config.json', async () => {
 
 MIT — see [LICENSE](./LICENSE).
 
-Built by [FutureSpeak.AI](https://futurespeak.ai) as part of [Agent Friday](https://github.com/FutureSpeakAI), the world's first AGI OS.
+Built by [FutureSpeak.AI](https://futurespeak.ai) as part of [Agent Friday](https://github.com/FutureSpeakAI/Agent-Friday), the world's most trustworthy AI assistant.

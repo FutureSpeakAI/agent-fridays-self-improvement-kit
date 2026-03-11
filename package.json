@@ -17,8 +17,7 @@
     "human-in-the-loop",
     "approval",
     "hot-reload",
-    "diff",
-    "agi"
+    "diff"
   ],
   "author": "FutureSpeak.AI <hello@futurespeak.ai> (https://futurespeak.ai)",
   "license": "MIT",
