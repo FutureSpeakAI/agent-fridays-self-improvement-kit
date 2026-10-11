@@ -1,3 +1,5 @@
+> **This project now lives on in [Agent-Friday](https://github.com/FutureSpeakAI/Agent-Friday), archived 2026-10-11.**
+
 # self-improving-agent
 
 > Controlled self-modification for AI agents — read, diff, and propose changes to source code with mandatory human approval.
